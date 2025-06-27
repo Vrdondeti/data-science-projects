@@ -6,8 +6,11 @@ Each project folder contains its own README with details about the problem addre
 
 ## What's Inside
 
-- **ai-math-tutor/**  
+- **AI-Math-Tutor-Chatbot/**  
   Interactive AI-powered math tutor using a fine-tuned ChatGPT Turbo model and Streamlit.
+
+- **COVID19-RAG-Question-Answering/**  
+  A Retrieval-Augmented Generation system using LangChain and GPT-4 for answering questions on COVID-19 in the U.S.
 
 - **fake-news-detection/**  
   Machine learning-based classifier for detecting fake news articles using NLP techniques.
@@ -17,9 +20,6 @@ Each project folder contains its own README with details about the problem addre
 
 - **childcare-affordability/**  
   Data storytelling and geographic visualization using the NDCP dataset.
-
-- **covid-rag-question-answering/**  
-  A Retrieval-Augmented Generation system using LangChain and GPT-4 for answering questions on COVID-19 in the U.S.
 
 - **customer-churn-prediction/**  
   Predictive modeling of telecom customer churn and analysis of retention strategies.

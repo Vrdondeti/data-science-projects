@@ -27,6 +27,12 @@ Each project folder contains its own README with details about the problem addre
 - **healthcare-readmissions-analysis/**  
   Exploratory analysis of how environmental and demographic factors impact healthcare readmission rates in the U.S.
 
+- **customer-segmentation-using-machine-learning/**  
+  Customer segmentation using unsupervised clustering and supervised Random Forest classification to identify distinct customer groups for targeted marketing.
+
+- **employee-attrition-prediction/**  
+  Predictive modeling to identify employees likely to leave the organization, enabling proactive retention strategies and reducing turnover costs.
+
 More projects will continue to be added as I explore new tools, techniques, and areas of interest in data science and AI.
 
 ## How to Explore
